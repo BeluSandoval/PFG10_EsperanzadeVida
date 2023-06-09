@@ -1,5 +1,5 @@
 <p align='center'>
-<img src ="../PFG10_EsperanzadeVida/Source/logooea.jpg", width="600px" height="200">
+<img src ="..Source/logooea.jpg", width="600px" height="200">
 <p>
 
 # <h1 align=center> **PROYECTO FINAL** </h1>
