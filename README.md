@@ -1,5 +1,9 @@
 <p align='center'>
+<<<<<<< HEAD
 [OEA](https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.png)
+=======
+<img src ="..Source/logooea.jpg", width="600px" height="200">
+>>>>>>> d59277f32cb963f3bec7b6f384ef5e4c9fe280f7
 <p>
 
 # <h1 align=center> **PROYECTO FINAL** </h1>
