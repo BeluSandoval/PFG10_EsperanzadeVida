@@ -1,7 +1,8 @@
 <p align='center'>
 
-![OEA](https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.png)
-=======
+
+<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.png"  height=300>
+
 
 <p>
 
@@ -53,7 +54,8 @@ Debido a que la temática es muy amplia si la consideramos a nivel mundial y des
 
 # **Arquitectura**
 <div align="left">
-![Flujo de Trabajo](https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/Flujo_trabajo.png)
+<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/Flujo_trabajo.png"  height=300>
+
 </div>
 
 
