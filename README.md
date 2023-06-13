@@ -1,7 +1,7 @@
 <p align='center'>
 
 
-<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.png"  height=300>
+<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.png">
 
 
 <p>
