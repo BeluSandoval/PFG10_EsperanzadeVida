@@ -1,5 +1,5 @@
 <p align='center'>
-<img src ="../PFG10_EsperanzadeVida/Source/logooea.jpg", width="600px" height="200">
+[OEA](https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.png)
 <p>
 
 # <h1 align=center> **PROYECTO FINAL** </h1>
@@ -50,7 +50,7 @@ Debido a que la temática es muy amplia si la consideramos a nivel mundial y des
 
 # **Arquitectura**
 <p align="left">
-  <img src="../PFG10_EsperanzadeVida/Source/Flujo de trabajo.png" alt="Descripción de la imagen" width="600">
+  [Flujo de Trabajo](https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/Flujo_trabajo.png)
 </p>
 
 
