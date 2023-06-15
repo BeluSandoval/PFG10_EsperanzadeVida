@@ -1,15 +1,12 @@
 <p align='center'>
 
-
 <img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/logooea.jpg">
           
-
-
 <p>
 
 # <h1 align=center> **PROYECTO FINAL** </h1>
 
-# <h1 align=center>**`Reporte sobre las tendencias de la esperanza de vida en los países miembros de la OEA`**</h1>
+# <h1 align=center>**`Tendencias de la esperanza de vida en los países miembros de la OEA`**</h1>
 
  *Bienvenidos a nuestro proyecto final de Data Science!!*
  Aquí encontrarán el contexto, alcance espacial y temporal, planteamiento de objetivos y posibles KPIs. 
