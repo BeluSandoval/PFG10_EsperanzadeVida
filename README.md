@@ -8,9 +8,6 @@
 
 # <h1 align=center>**`Tendencias de la esperanza de vida en los países miembros de la OEA`**</h1>
 
- *Bienvenidos a nuestro proyecto final de Data Science!!*
- Aquí encontrarán el contexto, alcance espacial y temporal, planteamiento de objetivos y posibles KPIs. 
- Es importante destacar que este informe es un primer acercamiento al tema y no representa el proyecto final, sino más bien un informe inicial que será refinado y desarrollado a lo largo de estas semanas
 
 
 <hr>  
@@ -46,7 +43,7 @@ Debido a que la temática es muy amplia si la consideramos a nivel mundial y des
 
 **Delimitación espacial:** Obtendremos los indicadores pertinentes a este proyecto, contenidos en las bases de datos del Banco Mundial,  para los 35 países de la OEA.
 
-**Delimitación temporal:** Consideraremos los últimos 50 años, como el período temporal para el estudio de los indicadores seleccionados de las bases de datos del Banco Mundial, para el desarrollo del proyecto.
+**Delimitación temporal:** Consideraremos los últimos 30 años, como el período temporal para el estudio de los indicadores seleccionados de las bases de datos del Banco Mundial, para el desarrollo del proyecto.
 
 <br/>
 
