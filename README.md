@@ -75,7 +75,7 @@ Debido a que la temática es muy amplia si la consideramos a nivel mundial y des
 # **Stack Tecnológico**
 
 <div align="left">
-<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/stacktecnologico.png"  height=300>
+<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/stacktecnologico.png"  height=400>
 
 </div>
 
@@ -84,7 +84,6 @@ Debido a que la temática es muy amplia si la consideramos a nivel mundial y des
 # **INTEGRANTES**
 
 
-+ Francisco Jiménez
 + Iván Darío Ortega
 + Diosa Haydeé Medina de Casanova
 + Maria Belén Sandoval Pinget
