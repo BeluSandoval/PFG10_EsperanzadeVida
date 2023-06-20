@@ -74,6 +74,11 @@ Debido a que la temática es muy amplia si la consideramos a nivel mundial y des
 
 # **Stack Tecnológico**
 
+<div align="left">
+<img src="https://github.com/BeluSandoval/PFG10_EsperanzadeVida/blob/main/Source/stacktecnologico.png"  height=300>
+
+</div>
+
 <br/>
 
 # **INTEGRANTES**
